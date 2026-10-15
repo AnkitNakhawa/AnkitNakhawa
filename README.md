@@ -1,6 +1,6 @@
 # Hey, I'm Ankit 👋
 
-CS + ML at the University of Maryland, building high-performance systems at the intersection of machine learning, GPUs, and markets.
+CS + ML at the University of Maryland, exploring ML, Inference, and Markets
 
 ### Open source contributions
 
