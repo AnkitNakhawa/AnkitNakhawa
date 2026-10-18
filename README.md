@@ -1,6 +1,7 @@
 # Hey, I'm Ankit 👋
 
-CS + ML at the University of Maryland, exploring ML, Inference, and Markets
+CS + ML at the University of Maryland, exploring ML, Inference, and Markets.
+Full-time Engineer @ IMC Trading.
 
 ### Open source contributions
 
